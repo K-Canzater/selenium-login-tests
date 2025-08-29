@@ -18,7 +18,7 @@ This project demonstrates hands-on QA and basic Selenium skills.
 - cd selenium-login-tests
 
 # 2. Install dependencies
-pip install selenium
+- pip install selenium
 
 # 3. Run the test script
-python testscript.py
+- python testscript.py
