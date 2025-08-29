@@ -1,6 +1,6 @@
 Automation scripts for testing login scenarios on [SauceDemo](https://www.saucedemo.com).  
 This project demonstrates hands-on QA and basic Selenium skills.
-
+--
 ## Test Scenarios
 
 1. **Successful login** – Verifies that a valid user can log in without error messages.  
