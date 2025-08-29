@@ -14,8 +14,8 @@ This project demonstrates hands-on QA and basic Selenium skills.
 - **Chrome WebDriver**
 
 # 1. Clone repo
-git clone https://github.com/K-Canzater/selenium-login-tests.git
-cd selenium-login-tests
+- git clone https://github.com/K-Canzater/selenium-login-tests.git
+- cd selenium-login-tests
 
 # 2. Install dependencies
 pip install selenium
