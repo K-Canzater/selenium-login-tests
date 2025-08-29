@@ -1,5 +1,5 @@
 Automation scripts for testing login scenarios on [SauceDemo](https://www.saucedemo.com).  
-This project demonstrates hands-on QA and basic Selenium skills.
+This project demonstrates hands-on QA and Selenium skills.
 --
 ## Test Scenarios
 
